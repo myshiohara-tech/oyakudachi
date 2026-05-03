@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Single-page-style fallback: every unknown path falls back to index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
