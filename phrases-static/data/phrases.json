@@ -1,0 +1,175 @@
+[
+  {
+    "id": 1,
+    "title": "主導権を握るための英語フレーズ(導入パート)",
+    "subtitle": "会話の主導権を握るためにレッスン開始直後から使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "私の声が聞こえて顔が見えますか？", "en": "Can you hear and see me?" },
+      { "id": 2, "ja": "はい、ハッキリと聞こえて見えます。", "en": "Yes, I can hear and see you clearly." },
+      { "id": 3, "ja": "こんにちは！お元気ですか？", "en": "Hi, how are you doing?" },
+      { "id": 4, "ja": "元気です、あなたは？", "en": "I'm good, thank you. And you?" },
+      { "id": 5, "ja": "聞いてくれて有難う、元気です。", "en": "Thank you for asking me. I'm good." },
+      { "id": 6, "ja": "何とお呼びすればいいですか？", "en": "What can I call you?" },
+      { "id": 7, "ja": "ヨシと呼んで下さい。", "en": "Call me Yoshi." },
+      { "id": 8, "ja": "初めまして、ヨシさん。", "en": "Nice to meet you, Yoshi!" },
+      { "id": 9, "ja": "今回が初めてのレッスンなので自己紹介させて下さい。", "en": "Since this is our first lesson, let me introduce myself." },
+      { "id": 10, "ja": "以上です。聴いてくれてありがとう。", "en": "That's it. Thank you for listening." },
+      { "id": 11, "ja": "そして2つリクエストがあります。", "en": "And I have two requests." },
+      { "id": 12, "ja": "1つ目は、出来る限りゆっくり話して下さい。", "en": "First, please speak as slowly as you can." },
+      { "id": 13, "ja": "2つ目は、話す時は同時にたくさん話さないで下さい。", "en": "Second, when you speak, please don't say many sentences at the same time." },
+      { "id": 14, "ja": "なぜならそれらを聴き取るのが難しいからです。", "en": "Because it's difficult for me to listen to them." },
+      { "id": 15, "ja": "一度に英文は１つだけ話して下さい。", "en": "Speak one sentence at a time." },
+      { "id": 16, "ja": "では、あなたの番です。", "en": "Well, it's your turn." },
+      { "id": 17, "ja": "自己紹介して下さい。", "en": "Please introduce yourself." },
+      { "id": 18, "ja": "出身はどちらですか。", "en": "Where are you from?" },
+      { "id": 19, "ja": "◯◯のどこに住んでいるのですか？", "en": "Where in ◯◯ do you live?" },
+      { "id": 20, "ja": "◯◯はどんな所ですか?", "en": "What is ◯◯ like?" },
+      { "id": 21, "ja": "あなたの情報をシェアしてくれて有難う。", "en": "Thank you for sharing your information." }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "主導権を握るための英語フレーズ(本編パート)",
+    "subtitle": "レッスン本編で会話の主導権を握り続けるためのフレーズ",
+    "phrases": [
+      { "id": 1, "ja": "フリートークがしたいです。", "en": "I want to have a free conversation." },
+      { "id": 2, "ja": "このレッスンの間は主導権を握らせて下さい。", "en": "Let me take the initiative in this lesson." },
+      { "id": 3, "ja": "質問せずに私の話を聞いて欲しいです。", "en": "I want you to listen to me without asking me questions." },
+      { "id": 4, "ja": "いいですか？", "en": "Is it OK?" },
+      { "id": 5, "ja": "◯◯についてお話しさせて下さい。", "en": "Let me talk about ◯◯." },
+      { "id": 6, "ja": "私の話は分かりますか？", "en": "Do you understand me?" },
+      { "id": 7, "ja": "1つ質問させて下さい。", "en": "Let me ask you a question." },
+      { "id": 8, "ja": "あぁ、時間が経つのは早いですね。", "en": "Oh, time flies." },
+      { "id": 9, "ja": "私はここでレッスンを終わりたいと思います。", "en": "I will finish this lesson here." },
+      { "id": 10, "ja": "私の英語についてどう思いますか？", "en": "What do you think about my English?" },
+      { "id": 11, "ja": "レッスン後にフィードバックをメッセージボックスに送ってもらえますか？", "en": "Could you send me the feedback on the message box after this lesson?" },
+      { "id": 12, "ja": "今日はレッスンを有難うございます。", "en": "Thank you for the lesson today." },
+      { "id": 13, "ja": "それはとても楽しかったです。", "en": "I enjoyed it so much." },
+      { "id": 14, "ja": "次のレッスンを楽しみにしています。", "en": "I'm looking forward to the next lesson." },
+      { "id": 15, "ja": "あなたのような講師に出会えて幸運です。", "en": "I'm lucky to meet a great teacher like you." },
+      { "id": 16, "ja": "では良い1日を。", "en": "See you and have a nice day! Bye bye!" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "意思表示のための英語フレーズ(聴くパート)",
+    "subtitle": "「相手が話す英語が分からない…」と思った時に使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "もっと大きな声で話して下さい。", "en": "Louder, please." },
+      { "id": 2, "ja": "よく聞こえません。", "en": "I can't hear you well." },
+      { "id": 3, "ja": "回線状況が悪いです。", "en": "We have a bad connection." },
+      { "id": 4, "ja": "あなたの声が途切れています。", "en": "Your voice is choppy." },
+      { "id": 5, "ja": "ゆっくり話して下さい。", "en": "Please speak slowly." },
+      { "id": 6, "ja": "もう一度言って下さい。", "en": "Come again?" },
+      { "id": 7, "ja": "話す時は、同時にたくさんの英文を話さないで下さい。", "en": "When you speak, please don't say many sentences at the same time." },
+      { "id": 8, "ja": "なぜならそれらを聴き取るのは私には難しいからです。", "en": "Because it's difficult for me to listen to them." },
+      { "id": 9, "ja": "それはどういう意味ですか？", "en": "What do you mean?" },
+      { "id": 10, "ja": "Aとはどういう意味ですか？", "en": "What is the meaning of A?" },
+      { "id": 11, "ja": "どんなスペルですか？", "en": "How do you spell?" },
+      { "id": 12, "ja": "それを書いてもらえますか？", "en": "Could you type it?" },
+      { "id": 13, "ja": "理解できないので、ここは飛ばしてもいいですか？", "en": "Can I skip here because I don't understand?" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "意思表示のための英語フレーズ(話すパート)",
+    "subtitle": "「英語で何と言えばいいのか分からない…」と思った時に使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "えっと。", "en": "Well, let me see." },
+      { "id": 2, "ja": "まずは日本語で意見を整理させて下さい。", "en": "Let me organize my opinion in Japanese first." },
+      { "id": 3, "ja": "英語でこれを何て言えばいいのだろう？", "en": "What should I say this in English?" },
+      { "id": 4, "ja": "私はこれを英語で言いたいです。", "en": "I want to say this in English." },
+      { "id": 5, "ja": "私の言っていることは分かりますか？", "en": "Do you understand me?" },
+      { "id": 6, "ja": "これは正しいですか？", "en": "Is this correct?" },
+      { "id": 7, "ja": "この場合、何と言うべきでしょうか？", "en": "How should I say in this case?" },
+      { "id": 8, "ja": "何と言えばいいのか分からないので、ここは飛ばしてもいいですか？", "en": "Can I skip here because I don't know what to say?" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "日本に関する英語フレーズ",
+    "subtitle": "相手を自分のペースに持ち込みたい時に使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "日本に来たことはありますか？", "en": "Have you ever been to Japan?" },
+      { "id": 2, "ja": "いいえ、ありません。", "en": "No, I have never been there." },
+      { "id": 3, "ja": "日本に来たいですか？", "en": "Do you want to come to Japan?" },
+      { "id": 4, "ja": "もちろん、行きたいです。", "en": "Of course, I want to go there." },
+      { "id": 5, "ja": "なぜ日本に来たいのですか？", "en": "Why do you want to come to Japan?" },
+      { "id": 6, "ja": "日本のどこに行きたいですか？", "en": "Where do you want to visit in Japan?" },
+      { "id": 7, "ja": "なぜ日本文化が好きなのですか？", "en": "Why do you like Japanese culture?" },
+      { "id": 8, "ja": "なぜそう思うのですか？", "en": "Why do you think so?" },
+      { "id": 9, "ja": "日本のどこに行ったのですか？", "en": "Where did you visit in Japan?" },
+      { "id": 10, "ja": "◯◯があるので◯◯に行って下さい。", "en": "You should go to ◯◯ because there is ◯◯." }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Why質問の英語フレーズ",
+    "subtitle": "相手の回答をさらに掘り下げる時に使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "なぜ、それが好きなのですか？", "en": "Why do you like it?" },
+      { "id": 2, "ja": "なぜ、それがしたいのですか？", "en": "Why do you want to do that?" },
+      { "id": 3, "ja": "なぜ、そう思うのですか？", "en": "Why do you think so?" },
+      { "id": 4, "ja": "なぜ、そこに行きたいのですか？", "en": "Why do you want to go there?" },
+      { "id": 5, "ja": "なぜ、英語講師をしているのですか？", "en": "Why do you work as an English teacher?" },
+      { "id": 6, "ja": "なぜ、それが好きだったのですか？", "en": "Why did you like it?" },
+      { "id": 7, "ja": "なぜ、それがしたかったのですか？", "en": "Why did you want to do that?" },
+      { "id": 8, "ja": "なぜ、そう思ったのですか？", "en": "Why did you think so?" },
+      { "id": 9, "ja": "なぜ、そこに行きたかったのですか？", "en": "Why did you want to go there?" },
+      { "id": 10, "ja": "なぜ、その仕事をしていたのですか？", "en": "Why did you do that job?" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "要約のための英語フレーズ",
+    "subtitle": "相手の話を正確に理解できているかどうか確かめる時に使う英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "ここまでのあなたの話を要約させて下さい。", "en": "Let me summarize your story so far." },
+      { "id": 2, "ja": "あなたの言ったことが理解できているかどうか確かめさせて下さい。", "en": "I want to make sure if I understand you." },
+      { "id": 3, "ja": "そこでリクエストがあります。", "en": "And I have a request." },
+      { "id": 4, "ja": "もし私が間違っていれば直して欲しいです。", "en": "I want you to correct me when I make mistakes." },
+      { "id": 5, "ja": "これが私が理解した全てです。", "en": "This is all I understand from you." },
+      { "id": 6, "ja": "私の英語はどうですか？", "en": "How about my English?" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "添削依頼のための英語フレーズ",
+    "subtitle": "「文法的に間違ってる…」と思った時に相手に伝える英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "私の英語はどうですか？", "en": "How is my English?" },
+      { "id": 2, "ja": "私の言っていることは理解しましたか？", "en": "Do you understand me?" },
+      { "id": 3, "ja": "これは正しいですか？", "en": "Is this correct?" },
+      { "id": 4, "ja": "本当に？私の英語は完璧ですか？", "en": "Are you sure? Is my English perfect?" },
+      { "id": 5, "ja": "私がお願いしたいのは、文法的に間違えていたら直して欲しいということです。", "en": "What I want to ask you is to correct my English when I make mistakes grammatically." },
+      { "id": 6, "ja": "もう一度挑戦しますから、しっかり聞いて下さいね。", "en": "Let me try again, so listen to me carefully." },
+      { "id": 7, "ja": "こういう場合はどう言えば良いですか？", "en": "How should I say in this case?" },
+      { "id": 8, "ja": "あなたが言ったことを書いてもらえますか？", "en": "Could you type it?" },
+      { "id": 9, "ja": "全文を書いてもらえますか？", "en": "Could you give me the whole sentence?" },
+      { "id": 10, "ja": "ゆっくりと声に出して読んでもらえますか？", "en": "Could you read aloud slowly?" },
+      { "id": 11, "ja": "練習させて下さい。", "en": "Let me practice this." },
+      { "id": 12, "ja": "私の発音はいかがですか？", "en": "How is my pronunciation?" },
+      { "id": 13, "ja": "では、次に行きましょう。", "en": "Let's go to the next." }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "0%イニシのための英語フレーズ",
+    "subtitle": "「何を質問されても瞬時に返答できるようになる！」ための英語フレーズ",
+    "phrases": [
+      { "id": 1, "ja": "フリートークがしたいです。", "en": "I want to have a free conversation." },
+      { "id": 2, "ja": "少し自己紹介させて下さい。", "en": "Let me introduce myself a little." },
+      { "id": 3, "ja": "では、私について何でも質問して下さい。", "en": "Well, please ask me anything about myself." },
+      { "id": 4, "ja": "始める前にリクエストがあります。", "en": "Before we start, I have a request." },
+      { "id": 5, "ja": "質問に対して4文で返答します。", "en": "I will answer your question in 4 sentences." },
+      { "id": 6, "ja": "ですから、文法的に間違っていれば、私が話し終わった後で直して下さい。", "en": "So, if I make mistakes grammatically, correct them after I finish speaking." },
+      { "id": 7, "ja": "日本語で意見を整理させて下さい。", "en": "Let me organize my opinion in Japanese first." },
+      { "id": 8, "ja": "では、始めましょう。", "en": "Well, let me start." },
+      { "id": 9, "ja": "それは、日本語でさえ説明が難しいです。", "en": "It's difficult for me to explain it even in Japanese." },
+      { "id": 10, "ja": "なぜ、それを知りたいのですか？", "en": "Why do you want to know that?" },
+      { "id": 11, "ja": "次の質問をして下さい。", "en": "Please ask me the next question." },
+      { "id": 12, "ja": "◯◯について尋ねて下さい。", "en": "Please ask me about ◯◯." },
+      { "id": 13, "ja": "トピックを変えて下さい。", "en": "Please change the topic." }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+.DS_Store
+
+# Secrets / credentials
+*.token.json
+.token.json
+scripts/.token.json
+client_secret_*.json
+credentials.json
+token.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Local Claude settings
+.claude/settings.local.json

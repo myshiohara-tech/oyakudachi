@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <meta name="theme-color" content="#2563eb" />
+    <title>お役立ちフレーズ | 英会話練習アプリ</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="container topbar-row">
+        <button id="brand" class="brand" aria-label="ホームへ">
+          <div class="brand-title">お役立ちフレーズ</div>
+          <div class="brand-sub">英会話 練習アプリ</div>
+        </button>
+        <div class="topbar-right">
+          <span id="student-badge" class="student-badge" hidden></span>
+          <button id="open-settings" class="btn-ghost">⚙ 設定</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container" id="app">
+      <div class="loading">読み込み中...</div>
+    </main>
+
+    <footer class="footer">© <span id="year"></span> お役立ちフレーズ</footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
