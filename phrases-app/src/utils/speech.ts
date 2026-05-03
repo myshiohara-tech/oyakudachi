@@ -100,7 +100,6 @@ export function sleep(ms: number, signal?: AbortSignal): Promise<void> {
 }
 
 // ----- Speech recognition (STT) -----
-type SR = typeof window extends { SpeechRecognition: infer T } ? T : never
 declare global {
   interface Window {
     SpeechRecognition?: any

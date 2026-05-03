@@ -16,8 +16,7 @@ import SettingsPanel from './components/SettingsPanel'
 type View =
   | { name: 'home' }
   | { name: 'mode'; categoryId: number }
-  | { name: 'text'; categoryId: number }
-  | { name: 'voice'; categoryId: number }
+  | { name: Mode; categoryId: number }
   | { name: 'settings' }
 
 export default function App() {
